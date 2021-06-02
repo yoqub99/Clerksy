@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Recoleta';
+    src: local('Recoleta SemiBold'), local('Recoleta-SemiBold'),
+        url('../webfonts/Recoleta-SemiBold.woff2') format('woff2'),
+        url('../webfonts/Recoleta-SemiBold.woff') format('woff'),
+        url('../webfonts/Recoleta-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
